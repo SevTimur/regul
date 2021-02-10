@@ -40,6 +40,14 @@ a {
     padding: 16px 32px;
     font-weight: 600;
   }
+  & &_desc {
+    @media (max-width: 560px) {
+
+    }
+  }
+  & &_mob {
+
+  }
   & .modal-body {
     padding: 0 32px;
   }
